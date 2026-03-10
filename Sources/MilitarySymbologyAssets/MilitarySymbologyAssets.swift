@@ -6,7 +6,7 @@ import Foundation
 //public extension Bundle {
 //    static let militarySymbologyAssets = Bundle.module
 //}
-
+//
 public extension Bundle {
     static let militarySymbologyAssets: Bundle = {
         let bundleName = "Resources"
