@@ -2,7 +2,6 @@
 //  Created by Ukropsoft on 28.11.2023.
 //
 
-import MilitarySymbologyAssets
 import OSLog
 import SwiftUI
 

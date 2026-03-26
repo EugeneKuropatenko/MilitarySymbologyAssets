@@ -3,6 +3,7 @@
 //
 
 import SwiftUI
+import MilitarySymbologyKit
 
 /// List View for constructing MilitarySymbol with each property as a NavigationLink to another view with a symbol preview.
 public struct MilitarySymbolConstructor: View {

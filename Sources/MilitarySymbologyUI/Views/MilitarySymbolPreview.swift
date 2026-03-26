@@ -3,6 +3,7 @@
 //
 
 import SwiftUI
+import MilitarySymbologyKit
 
 /// For previewing MilitarySymbol.
 /// It has a gray background to make sure all balck amplifiers are visible.

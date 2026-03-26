@@ -3,6 +3,7 @@
 //
 
 import SwiftUI
+import MilitarySymbologyKit
 
 public struct MilitarySymbolForEach: View {
     public typealias SelectedMilitarySymbol = MilitarySymbol

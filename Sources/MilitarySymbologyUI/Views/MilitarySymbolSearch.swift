@@ -3,6 +3,7 @@
 //
 
 import SwiftUI
+import MilitarySymbologyKit
 
 public struct MilitarySymbolSearch: View {
     @Binding public var selectedSymbol: MilitarySymbol

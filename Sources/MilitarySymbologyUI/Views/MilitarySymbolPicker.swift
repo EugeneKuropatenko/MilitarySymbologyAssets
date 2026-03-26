@@ -3,6 +3,7 @@
 //
 
 import SwiftUI
+import MilitarySymbologyKit
 
 /// Form view for constructing MilitarySymbol with each property as a picker.
 public struct MilitarySymbolPicker: View {
