@@ -2,7 +2,7 @@
 //  MilitarySymbologyAssets.swift
 //  MilitarySymbologyAssets
 //
-//  Created by Eugene Kuropatenko on 11.03.2026.
+//  Created by Ukropsoft
 //
 
 import Foundation

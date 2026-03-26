@@ -1,0 +1,9 @@
+//
+//  Created by Ukropsoft on 30.11.2023.
+//
+
+import Foundation
+
+public extension Bundle {
+    static let militarySymbologyKit = Bundle.module
+}
