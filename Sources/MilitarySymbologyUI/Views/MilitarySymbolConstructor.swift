@@ -24,7 +24,7 @@ public struct MilitarySymbolConstructor: View {
                     LabeledContent {
                         Text(symbol.context.name)
                     } label: {
-                        Text("Select context"/*, bundle: .militarySymbologyUI*/)
+                        Text("Select context", bundle: .militarySymbologyUI)
                     }
                 }
             } header: {
