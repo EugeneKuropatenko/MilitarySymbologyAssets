@@ -2,7 +2,6 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Amplifier" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -13,7 +12,6 @@
       }
     },
     "Amplifier / Descriptor" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -24,7 +22,6 @@
       }
     },
     "Context" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -35,7 +32,6 @@
       }
     },
     "Copy" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -46,7 +42,6 @@
       }
     },
     "Descriptor" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -57,7 +52,6 @@
       }
     },
     "Dimension" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -68,7 +62,6 @@
       }
     },
     "Entity" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -79,7 +72,6 @@
       }
     },
     "Entity Subtype" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -90,7 +82,6 @@
       }
     },
     "Entity Type" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -101,7 +92,6 @@
       }
     },
     "HQ / Task Force / Dummy" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -112,7 +102,6 @@
       }
     },
     "HQTFDummy" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -121,6 +110,9 @@
           }
         }
       }
+    },
+    "No results" : {
+
     },
     "No results for '%@'" : {
       "extractionState" : "stale",
@@ -144,8 +136,10 @@
         }
       }
     },
+    "Present" : {
+
+    },
     "Reset to default value" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -157,7 +151,6 @@
     },
     "Search symbol" : {
       "comment" : "Search bar",
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -168,7 +161,6 @@
       }
     },
     "Select amplifier" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -179,7 +171,6 @@
       }
     },
     "Select context" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -190,7 +181,6 @@
       }
     },
     "Select descriptor" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -201,7 +191,6 @@
       }
     },
     "Select dimension" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -212,7 +201,6 @@
       }
     },
     "Select entity" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -223,7 +211,6 @@
       }
     },
     "Select entity subtype" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -234,7 +221,6 @@
       }
     },
     "Select entity type" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -245,7 +231,6 @@
       }
     },
     "Select HQ / Task Force / Dummy" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -256,7 +241,6 @@
       }
     },
     "Select standard identity" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -267,7 +251,6 @@
       }
     },
     "Select status" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -278,7 +261,6 @@
       }
     },
     "SIDC:" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -289,7 +271,6 @@
       }
     },
     "Standard identity" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -300,7 +281,6 @@
       }
     },
     "Standard Identity" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -311,7 +291,6 @@
       }
     },
     "Status" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
@@ -322,7 +301,6 @@
       }
     },
     "Use alternate status amplifiers" : {
-      "extractionState" : "stale",
       "localizations" : {
         "uk" : {
           "stringUnit" : {
