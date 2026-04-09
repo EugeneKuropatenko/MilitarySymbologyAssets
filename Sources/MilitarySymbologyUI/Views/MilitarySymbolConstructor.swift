@@ -11,6 +11,10 @@ public struct MilitarySymbolConstructor: View {
 
     public init(symbol: Binding<MilitarySymbol>) {
         _symbol = symbol
+        print("Bundle path:", Bundle.module.bundlePath)
+        print("UK lproj:", Bundle.module.path(forResource: "Localizable", ofType: "strings", inDirectory: "uk.lproj") ?? "NOT FOUND")
+        print("Localized:", String(localized: "Present", bundle: .module))
+        
     }
 
     public var body: some View {
