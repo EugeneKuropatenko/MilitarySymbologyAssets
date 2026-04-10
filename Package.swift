@@ -20,7 +20,7 @@ let package = Package(
             name: "MilitarySymbologyKit",
             dependencies: ["MilitaryAssetsDB"],
             path: "Sources/MilitarySymbologyKit",
-            resources: [.process("Resources")]
+            resources: [.process("Localizable.xcstrings")]
         ),
         .target(
             name: "MilitarySymbologyUI",
