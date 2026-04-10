@@ -2,8 +2,13 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Amplifier" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підсилювач"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13,8 +18,13 @@
       }
     },
     "Amplifier / Descriptor" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підсилювач / Описувач"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24,8 +34,13 @@
       }
     },
     "Context" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Контекст"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35,8 +50,13 @@
       }
     },
     "Copy" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Копіювати"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46,8 +66,13 @@
       }
     },
     "Descriptor" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Описувач"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -57,8 +82,13 @@
       }
     },
     "Dimension" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Простір"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -68,8 +98,13 @@
       }
     },
     "Entity" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сутність"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -79,8 +114,13 @@
       }
     },
     "Entity Subtype" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підтип сутності"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -90,8 +130,13 @@
       }
     },
     "Entity Type" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тип сутності"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -101,8 +146,13 @@
       }
     },
     "HQ / Task Force / Dummy" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Штаб / Оперативна група / Манекен"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -112,8 +162,13 @@
       }
     },
     "HQTFDummy" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Штаб / Оперативна група / Манекен"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -122,9 +177,18 @@
         }
       }
     },
+    "No results" : {
+
+    },
     "No results for '%@'" : {
       "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Немає результатів за запитом '%@'"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -136,6 +200,12 @@
     "Not found" : {
       "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не знайдено"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -144,9 +214,17 @@
         }
       }
     },
+    "Present" : {
+
+    },
     "Reset to default value" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скинути до значення за замовчуванням"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -157,8 +235,13 @@
     },
     "Search symbol" : {
       "comment" : "Search bar",
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пошук символа"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -168,8 +251,13 @@
       }
     },
     "Select amplifier" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть підсилювач"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179,8 +267,13 @@
       }
     },
     "Select context" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть контекст"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -190,8 +283,13 @@
       }
     },
     "Select descriptor" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть дескриптор"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -201,8 +299,13 @@
       }
     },
     "Select dimension" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть простір"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -212,8 +315,13 @@
       }
     },
     "Select entity" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть сутність"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -223,8 +331,13 @@
       }
     },
     "Select entity subtype" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть підтип сутності"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -234,8 +347,13 @@
       }
     },
     "Select entity type" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть тип сутності"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -245,8 +363,13 @@
       }
     },
     "Select HQ / Task Force / Dummy" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть Штаб / Оперативна група / Манекен"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -256,8 +379,13 @@
       }
     },
     "Select standard identity" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оберіть стандартну ідентичність"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -267,8 +395,13 @@
       }
     },
     "Select status" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оберіть статус"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -278,8 +411,13 @@
       }
     },
     "SIDC:" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SIDC:"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -289,8 +427,13 @@
       }
     },
     "Standard identity" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Стандартна ідентичність"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -300,8 +443,13 @@
       }
     },
     "Standard Identity" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Стандартна ідентичність"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -311,8 +459,13 @@
       }
     },
     "Status" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Статус"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -322,8 +475,13 @@
       }
     },
     "Use alternate status amplifiers" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "ua" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Використовувати альтернативні підсилювачі стану"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
