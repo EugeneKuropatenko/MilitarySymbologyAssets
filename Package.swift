@@ -19,14 +19,12 @@ let package = Package(
         .target(
             name: "MilitarySymbologyKit",
             dependencies: ["MilitaryAssetsDB"],
-            path: "Sources/MilitarySymbologyKit",
-            resources: [.process("Resources")]
+            path: "Sources/MilitarySymbologyKit"
         ),
         .target(
             name: "MilitarySymbologyUI",
             dependencies: ["MilitarySymbologyKit"],
-            path: "Sources/MilitarySymbologyUI",
-            resources: [.process("Resources")]
+            path: "Sources/MilitarySymbologyUI"
         ),
         .binaryTarget(
             name: "MilitaryAssetsDB",
